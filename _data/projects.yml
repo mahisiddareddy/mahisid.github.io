@@ -1,0 +1,13 @@
+# Projects
+
+# project 1
+- project: AWS IAM key handler
+  description: <ul class="resume-item-list"><li>Increased efficiency by implementing a secure way for users to self-serve IAM keys for production applications.</li><li>Architected the tool from ground up and successfully delivered the tool on time for use by other internal teams.</li><li>Published a terraform module to TFE private registry which seamlessly handles IAM keys in an AWS account.</li><li>Deployed a central lambda function to handle bussiness logic and securely store IAM keys to app secrect store.</li></ul>
+
+# project 2
+- project: Auto remediate IAM trust policy
+  description: <ul class="resume-item-list"><li>Deployed an auto remediation tool in all AWS accounts to remediate unwanted trust policies thereby allowing users to manage their own policies.</li><li>Designed the tool to evaluate all related cloudtrail events and take necessary action based on the busssiness logic and also explicit managed exemptions.</li><li>Improved security posture in all AWS accounts by using the tool as a default guardrail to detect and auto-remdiate malicious actions on IAM trust policies.</li></ul>
+
+# project 3
+- project: Indeed Cloud Network
+  description: <ul class="resume-item-list"><li>Prepared several design documents, presented the solutions to internal teams and answered related questions.</li><li>Contributed to base infrastructure automation using terraform thereby reducing time to migrate to new regions.</li><li>Deployed TGW peering mesh and configured routes to properly route traffic to the nearest Indeed on-prem DCs.</li><li>Acted as a teir 3 technical support for AWS network related questions and helped the network team accelerate network deployments in cloud.</li></ul>

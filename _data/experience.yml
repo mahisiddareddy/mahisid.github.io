@@ -1,0 +1,12 @@
+# Jobs
+# Cloud Infrastructure Engineer
+- company: Indeed.com
+  position: Cloud Infrastructure Engineer
+  duration: Feb, 2019 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Deployed solutions to improve reliability, performance and drive innovation in Indeed's cloud infrastructure.</li><li>Developed several automation tools to improve security, compliance and monitoring in AWS cloud platform.</li><li>Contibuted to documentation and performed design reviews for internal projects to ensure best practices in cloud.</li><li>Automated resource deployments on cloud using infrastructure as code tools like terraform and cloudformation.</li><li>Resolved cloud related requests for internal teams and served as an escalation for on-call rotation for AWS cloud.</li></ul>
+
+# Software Engineer
+- company: HCL Americas (Cisco)
+  position: Software Engineer
+  duration:  Aug 2018 &mdash; Feb 2019
+  summary:  <ul class="resume-item-list"><li>Automated deployment of OpenStack cloud platform by bootstraping the various services on Cisco UCS servers.</li><li>Developed Ansible playbooks to automate configurations for switches, routers, servers and load balancers.</li><li>Deployed python script to automate WebEx platform testing on AWS by bootstraping EC2 instances.</li><li>Published techinical documentation and trainied other members of the team on AWS and OpenStack cloud.</li></ul>
