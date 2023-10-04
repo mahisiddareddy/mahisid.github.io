@@ -1,11 +1,27 @@
 # Skills
-# Programming Skills
-- skill: Programming Skills
-  description: Python3, BASH, CloudFormation, Terraform, HTML, CSS.
+# Cloud Platforms
+- skill: Cloud Computing Platforms
+  description: AWS, Google Cloud, OpenStack
 
-# Devops Skills
-- skill: Devops Tools
-  description: Gitlab CICD, Jenkins, Docker, Terraform Enterprise
+# Programming Skills
+- skill: Programming languages
+  description: Python, Java, Shell, Bash
+
+# Infrastructure as Code (IaC) tools
+- skill: Infrastructure as Code (IaC) tools
+  description: Terraform, CloudFormation
+
+# CI/CD Tools
+- skill: CI/CD Tools
+  description: Jenkins, GitLab CI/CD, Terraform Enterprise
+
+# Monitoring and alerting tools
+- skill: Monitoring and alerting tools
+  description: Splunk, Datadog, Cloudwatch
+
+# Containerization and orchestration
+- skill: Containerization and orchestration
+  description: Docker, Kubernetes
 
 # Personal Attributes
 - skill: Personal Attributes
