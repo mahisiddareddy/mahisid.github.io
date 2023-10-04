@@ -1,9 +1,21 @@
 # Jobs
-# Cloud Infrastructure Engineer
+# Staff Cloud Infrastructure Software Engineer
 - company: Indeed.com
-  position: Cloud Infrastructure Engineer
-  duration: Feb, 2019 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Deployed solutions to improve reliability, performance and drive innovation in Indeed's cloud infrastructure.</li><li>Developed several automation tools to improve security, compliance and monitoring in AWS cloud platform.</li><li>Contibuted to documentation and performed design reviews for internal projects to ensure best practices in cloud.</li><li>Automated resource deployments on cloud using infrastructure as code tools like terraform and cloudformation.</li><li>Resolved cloud related requests for internal teams and served as an escalation for on-call rotation for AWS cloud.</li></ul>
+  position: Staff Cloud Infrastructure Software Engineer
+  duration: July 2022 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Developed a multi-stage automation pipeline in Python to allow faster deployment of new AWS accounts and reduced overall manual tasks by 70%.</li><li>Led implementation of a major self-service initiative enabling users to securely generate and store AWS credentials for their apps in Vault, resulting in a 10% reduction in the team's ticket queue.</li><li>Collaborated closely with a team of skilled infrastructure engineers to lead the successful 100% migration to AWS, significantly advancing Indeed's cloud journey for the coming decade.</li><li>Mentored team members, guiding them in effective coding practices and automation usage, resulting in improved productivity and streamlined workflows for the cloud foundation team.</li></ul>
+
+# Senior Cloud Infrastructure Engineer
+- company: Indeed.com
+  position: Senior Cloud Infrastructure Engineer
+  duration:  Nov 2020 &mdash; July 2022
+  summary:  <ul class="resume-item-list"><li>Designed and implemented a robust multi-account strategy in AWS, effectively managing and scaling infrastructure across 3000+ AWS accounts.</li><li>Implemented default security guardrails using Service Control Policies (SCPs), enhancing security posture and compliance across all AWS accounts.</li><li>Standardized AWS infrastructure deployments by creating and publishing Terraform modules for essential services like IAM, EC2, S3, CloudFront, etc.</li><li>Assisted cross-functional teams in adopting Terraform, providing training and guidance to ensure successful utilization of the tool for infrastructure provisioning and management.</li></ul>
+  
+# Cloud Systems Engineer
+- company: Indeed.com
+  position: Cloud Systems Engineer
+  duration: Feb 2019 &mdash; Nov 2020
+  summary: <ul class="resume-item-list"><li>Led the onboarding and seamless installation of a third-party tool in production environment to enhance efficiency of existing operational processes in cloud governance and AWS access management.</li><li>Empowered teams to respond swiftly to critical downtime events in AWS by establishing an efficient notification system, leading to enhanced service availability and reduced downtime.</li><li>Contributed extensively to the internal wiki, creating comprehensive documentation on cloud governance, AWS best practices, and frequently asked questions (FAQs) for widely used AWS services.</li></ul>
 
 # Software Engineer
 - company: HCL Americas (Cisco)
